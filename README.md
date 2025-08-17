@@ -25,6 +25,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Methodology](#Methodology)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
